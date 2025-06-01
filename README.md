@@ -37,6 +37,8 @@
 
 ## 🌍 Connect With Me
 
+[![Fiverr](https://img.shields.io/badge/Fiverr-green?logo=fiverr&style=for-the-badge)](https://www.fiverr.com/demeldoo)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/dzemal-imamovic/)
   
 ---
